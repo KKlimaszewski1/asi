@@ -58,6 +58,8 @@ Wpisujemy według schematu:
 1. [nazwa zespołu](link do repo z kodem applikacji). [nazwa aplikacji](link do wdrożonej aplikacji)
 ```
 
+1. [Klimaszewski Karol] (https://github.com/KKlimaszewski1/architektora_serwisow_internetowych_lab) -> [Książka Kucharska] (https://fathomless-bastion-35868.herokuapp.com/)
+
 **Uwaga:**
 
 * W pliku _README.md_ należy wpisać wszystkich autorów aplikacji.
